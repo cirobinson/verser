@@ -26,3 +26,7 @@ Diese Streamlit-Anwendung hilft dir, Bibelverse auf spielerische Weise zu lernen
 ## Format des Bibeltextes
 
 Bitte stelle sicher, dass dein Bibeltext dem folgenden Format entspricht:
+
+		1) Eph. 1:1  Paul, an apostle of Christ Jesus through the will of God, to the saints who are in Ephesus and are faithful in Christ Jesus:
+		2) Eph. 1:2  Grace to you and peace from God our Father and the Lord Jesus Christ.
+		3) Eph. 1:3  Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenlies in Christ,
