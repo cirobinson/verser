@@ -247,7 +247,7 @@ if st.session_state.logged_in_user:
                  error_message = (
                     f"Das Format des Textes scheint nicht korrekt zu sein.\n"
                     f"Erwarte Zeilen wie `1) Eph. 1:1 ...`.\n"
-                    f"[Hilfe zur Formatierung]({BIBLE_FORMAT_HELP_URL})"
+                    f"[Bibelverse auflisten]({BIBLE_FORMAT_HELP_URL})"
                 )
                  st.sidebar.error(error_message)
             else:
